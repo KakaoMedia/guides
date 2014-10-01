@@ -1,4 +1,11 @@
-guides
-======
+Programming style & Guidelines
+==============================
 
-Programming in style &amp; guidelines
+Tools
+-----
+...
+
+Contributing
+------------
+...
+
