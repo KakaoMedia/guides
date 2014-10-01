@@ -5,6 +5,11 @@ Tools
 -----
 ...
 
+Testing
+-------
+* RSpec ?
+* MiniTest ?
+
 Contributing
 ------------
 ...
